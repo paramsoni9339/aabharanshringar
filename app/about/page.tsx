@@ -59,21 +59,21 @@ const values = [
 
 const team = [
   {
-    name: "Shri Radhesh Sharma",
+    name: "Manubhai Suchak",
     role: "Master Craftsman & Founder",
     image: "/placeholder.svg?height=300&width=300",
-    description: "With over 25 years of experience, leads our team of artisans in creating divine masterpieces",
+    description: "With over -- years of experience, leads our team of artisans in creating divine masterpieces",
   },
   {
-    name: "Smt. Vrinda Devi",
-    role: "Design Director",
-    image: "/placeholder.svg?height=300&width=300",
+    name: "Gopal Suchak",
+    role: "Quality Assurance",
+    image: "/gopal-pfp.jpg",
     description: "Specializes in traditional patterns and ensures authenticity in every design",
   },
   {
-    name: "Shri Govind Patel",
+    name: "Shyam Suchak",
     role: "Quality Assurance",
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/shyam-pfp.jpg",
     description: "Ensures every piece meets our highest standards before reaching devotees",
   },
 ]

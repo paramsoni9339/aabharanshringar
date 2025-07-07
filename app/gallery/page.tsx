@@ -15,7 +15,7 @@ const products = [
     id: 1,
     name: "Royal Golden Mukut",
     category: "Mukut",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/mukut-1.png?height=400&width=400",
     price: "Custom Pricing",
     description: "Exquisite handcrafted crown with intricate golden work and precious stones",
     featured: true,
